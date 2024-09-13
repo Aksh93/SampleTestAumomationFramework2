@@ -2,8 +2,9 @@ package api.tests;
 
 public class loginApiTest {
 
-	public static void main(String[] args) {
+	public void loginAPITest() {
 		// TODO Auto-generated method stub
+		System.out.println("running login API Test");
 
 	}
 
